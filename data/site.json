@@ -1,0 +1,323 @@
+{
+    "hero": {
+        "eyebrow": "Reliable Power Solutions",
+        "title": "Solar & Power Solutions",
+        "highlight": "for Homes, Businesses, and Industries",
+        "description": "From solar panels, inverters to generators, we provide high-quality \r\nproducts and spare parts to keep you powered wherever you are.",
+        "image": "images/Hero.png"
+    },
+    "containers": [
+        {
+            "id": "categories",
+            "title": "Product Categories",
+            "subtitle": "",
+            "placement": "categories",
+            "products": [
+                {
+                    "id": "circuit-breakers-db-category",
+                    "name": "Circuit Breakers & DB",
+                    "description": "Electrical Accessories Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dolor accusantium facere unde molestiae labore amet rerum minus provident, odit voluptas dolores incidunt fugiat, aliquid dolorum ab? Nihil, repellat soluta.",
+                    "image": "images/images (2).jpg",
+                    "price": 0,
+                    "discount": 0
+                },
+                {
+                    "id": "filters-category",
+                    "name": "Filters",
+                    "description": "Air filters and Oil filters",
+                    "image": "images/cat 2.png",
+                    "price": 0,
+                    "discount": 0
+                },
+                {
+                    "id": "solar-generator-category",
+                    "name": "Solar Generator",
+                    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.",
+                    "image": "images/sgenbg.jpg",
+                    "price": 0,
+                    "discount": 0
+                },
+                {
+                    "id": "circuit-breakers-db-category-2",
+                    "name": "Circuit Breakers & DB",
+                    "description": "Electrical Accessories Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dolor accusantium facere unde molestiae labore amet rerum minus provident, odit voluptas dolores incidunt fugiat, aliquid dolorum ab? Nihil, repellat soluta.",
+                    "image": "images/anern-solar-accessories.jpg",
+                    "price": 0,
+                    "discount": 0
+                },
+                {
+                    "id": "spare-parts-category",
+                    "name": "Spare Parts",
+                    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa dicta harum dolorem veritatis ullam, fugit rerum",
+                    "image": "images/images (1).jpg",
+                    "price": 0,
+                    "discount": 0
+                },
+                {
+                    "id": "electrical-appliances-category",
+                    "name": "Electrical Appliances",
+                    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.",
+                    "image": "images/appliances.jpg",
+                    "price": 0,
+                    "discount": 0
+                }
+            ]
+        },
+        {
+            "id": "top-sellers",
+            "title": "TOP SELLERS",
+            "subtitle": "Up to 50% Off",
+            "placement": "top-sellers",
+            "products": [
+                {
+                    "id": "sun-king-solar-fan",
+                    "name": "Sun King solar fan",
+                    "description": "Low power consumption solar fan on the go.",
+                    "image": "images/Solar-Fan.jpg",
+                    "price": 52000,
+                    "discount": 3.8461538462
+                },
+                {
+                    "id": "320w-solar-panel-220v",
+                    "name": "320W Solar Panel 220V",
+                    "description": "High-quality solar panel for your inverter setup.",
+                    "image": "images/solar.jpg",
+                    "price": 500000,
+                    "discount": 0
+                },
+                {
+                    "id": "circuit-breakers-63a",
+                    "name": "Circuit Breakers 63A",
+                    "description": "High-quality circuit breakers.",
+                    "image": "images/images (2).jpg",
+                    "price": 5999,
+                    "discount": 16.6527754626
+                },
+                {
+                    "id": "portable-power-station-seller",
+                    "name": "Portable Power Station",
+                    "description": "Power on the go. For camping and outdoor locations.",
+                    "image": "images/sgen.png",
+                    "price": 300000,
+                    "discount": 16.6666666667
+                },
+                {
+                    "id": "cat-filters",
+                    "name": "CAT Filters",
+                    "description": "CAT air and oil filters.",
+                    "image": "images/cat.png",
+                    "price": 75999,
+                    "discount": 5.2620
+                },
+                {
+                    "id": "engine-parts",
+                    "name": "Engine Parts",
+                    "description": "Wide range of engine spare parts.",
+                    "image": "images/images (1).jpg",
+                    "price": 120999,
+                    "discount": 15.7026091125
+                }
+            ]
+        },
+        {
+            "id": "power-plans",
+            "title": "Power Plans",
+            "subtitle": "Up to 60% Off",
+            "placement": "power-plans",
+            "products": [
+                {
+                    "id": "hithium-solar-panel",
+                    "name": "HITHIUM 250W 33V Monocrystalline Solar Panel",
+                    "description": "",
+                    "image": "images/1.jpg",
+                    "price": 120999,
+                    "discount": 25.6274845247
+                },
+                {
+                    "id": "sun-king-homeplus-pro",
+                    "name": "Sun King HomePlus Pro",
+                    "description": "Solar Home Light System (Fast Phone Charger + 4 Room Lights)",
+                    "image": "images/3.jpg",
+                    "price": 88999,
+                    "discount": 8.5439162238
+                },
+                {
+                    "id": "ecoflow-river-2-pro",
+                    "name": "ECOFLOW RIVER 2 Pro",
+                    "description": "Portable Power Station, 768Wh LiFeP04 Battery, 70 Min Fast Charging",
+                    "image": "images/2.jpg",
+                    "price": 902599,
+                    "discount": 11.3659745
+                },
+                {
+                    "id": "portable-power-station-plans",
+                    "name": "Portable power Station",
+                    "description": "Power on the go. For camping and outdoor locations.",
+                    "image": "images/4.jpg",
+                    "price": 820999,
+                    "discount": 14.597
+                },
+                {
+                    "id": "solar-power-generator-plans",
+                    "name": "Solar Power Generator",
+                    "description": "Portable & Mobile Power Supply",
+                    "image": "images/5.jpg",
+                    "price": 80119,
+                    "discount": 10.133
+                },
+                {
+                    "id": "colahome-solar-generator",
+                    "name": "Colahome Solar generator",
+                    "description": "Portable power Station + Free Fan",
+                    "image": "images/6.jpg",
+                    "price": 760209,
+                    "discount": 93.423
+                },
+                {
+                    "id": "portable-power-station-plans-2",
+                    "name": "Portable Power Station",
+                    "description": "Long Lasting Portable Power station",
+                    "image": "images/7.jpg",
+                    "price": 550000,
+                    "discount": 9.091
+                },
+                {
+                    "id": "solar-generatior",
+                    "name": "Solar Generatior",
+                    "description": "This is a wider card with supporting text below as",
+                    "image": "images/8.jpg",
+                    "price": 300700,
+                    "discount": 16.860
+                },
+                {
+                    "id": "500w-solar-panel",
+                    "name": "500w Solar Panel",
+                    "description": "Foldable Mobile Solar panel",
+                    "image": "images/9.jpg",
+                    "price": 270999,
+                    "discount": 7.749
+                },
+                {
+                    "id": "senwei-generator",
+                    "name": "SENWEI Generator",
+                    "description": "2.5 Kva Petrol Generator",
+                    "image": "images/10.jpg",
+                    "price": 399999,
+                    "discount": 12.5
+                }
+            ]
+        },
+        {
+            "id": "for-you",
+            "title": "For You",
+            "subtitle": "Up to 60% Off",
+            "placement": "for-you",
+            "products": [
+                {
+                    "id": "solar-lithium-battery",
+                    "name": "Solar 48V 150AH 7.2KWH Lithium(LiFePO4)Battery",
+                    "description": "",
+                    "image": "images/inverterset.jpg",
+                    "price": 2400000,
+                    "discount": 0
+                },
+                {
+                    "id": "felicity-solar-battery",
+                    "name": "Felicity Solar 15kWh 48V FLA Lithium Battery",
+                    "description": "With an energy storage capacity of 15,000Wh (watt-hours)",
+                    "image": "images/felicity.jpg",
+                    "price": 21762486,
+                    "discount": 0
+                },
+                {
+                    "id": "automatic-transfer-switch",
+                    "name": "AUTOMATIC TRANSFER SWITCH ATS SINGLE PHASE 63AMPS",
+                    "description": "automatic transfer switch (ATS)",
+                    "image": "images/changeover.jpg",
+                    "price": 37000,
+                    "discount": 0
+                },
+                {
+                    "id": "automatic-fire-extinguisher-ball",
+                    "name": "AFO Automatic Fire Extinguisher Ball, Auto Fire Off/ Fire Ball",
+                    "description": "AFO Fire Extinguisher Ball is a fully automatic fire extinguisher.",
+                    "image": "images/AOF.jpg",
+                    "price": 701150,
+                    "discount": 0
+                },
+                {
+                    "id": "solar-power-generator-for-you",
+                    "name": "Solar Power Generator",
+                    "description": "Portable & Mobile Power Supply",
+                    "image": "images/5.jpg",
+                    "price": 72000,
+                    "discount": 0
+                },
+                {
+                    "id": "colahome-solar-generator-for-you",
+                    "name": "Colahome Solar generator",
+                    "description": "Portable power Station + Free Fan",
+                    "image": "images/6.jpg",
+                    "price": 50000,
+                    "discount": 0
+                },
+                {
+                    "id": "portable-power-station-for-you",
+                    "name": "Portable Power Station",
+                    "description": "Long Lasting Portable Power station",
+                    "image": "images/7.jpg",
+                    "price": 500000,
+                    "discount": 0
+                },
+                {
+                    "id": "solar-generatior-for-you",
+                    "name": "Solar Generatior",
+                    "description": "This is a wider card with supporting text below as a",
+                    "image": "images/8.jpg",
+                    "price": 5000,
+                    "discount": 0
+                },
+                {
+                    "id": "500w-solar-panel-for-you",
+                    "name": "500w Solar Panel",
+                    "description": "Foldable Mobile Solar panel",
+                    "image": "images/9.jpg",
+                    "price": 250000,
+                    "discount": 0
+                },
+                {
+                    "id": "senwei-generator-for-you",
+                    "name": "SENWEI Generator",
+                    "description": "2.5 Kva Petrol Generator",
+                    "image": "images/10.jpg",
+                    "price": 72000,
+                    "discount": 0
+                }
+            ]
+        },
+        {
+            "id": "featured",
+            "title": "Featured Products",
+            "subtitle": "Power essentials at great prices",
+            "placement": "featured",
+            "products": [
+                {
+                    "id": "solar-fan",
+                    "name": "Sun King Solar Fan",
+                    "description": "Low power consumption solar fan on the go.",
+                    "image": "images/Solar-Fan.jpg",
+                    "price": 50000,
+                    "discount": 4
+                },
+                {
+                    "id": "solar-panel",
+                    "name": "320W Solar Panel 220V",
+                    "description": "High-quality solar panel for your inverter setup.",
+                    "image": "images/solar.jpg",
+                    "price": 500000,
+                    "discount": 8
+                }
+            ]
+        }
+    ]
+}
